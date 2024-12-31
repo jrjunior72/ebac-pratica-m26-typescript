@@ -1,6 +1,6 @@
 // função de cumprimento
 
-function cumprimento(nome:string):string {
+function cumprimento(nome:string):void {
     console.log(`Olá ${nome}`);
 }
 
